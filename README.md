@@ -7,6 +7,8 @@ Im Repository befinden sich im Idealfall:
 * Das Jupyter Notebook 
 * Dieses Readme File mit Projektbeschreibung, Angaben der Datenquellen und der Lizenz
 * Eventuell selbst generierte Datensätze und ihre Dokumentation
+* Eine Verknüpfung zum auf Binder gehosteten Jupyter Notebook: 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/JonKir/Vorlage_GitHub_Repository_Binder.git/main)
 
 ## Verwendete Datenquellen
 Im Rahmen dieses Projektes wurden Daten zur jährlichen globalen Durchschnittstemperatur an Land verwendet. Diese wurden von Berkeley Earth unter der der CC BY-NC-SA 4.0 Lizenz veröffentlicht und sind verfügbar unter: https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data
