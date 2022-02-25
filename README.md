@@ -12,10 +12,12 @@ Trends in Atmospheric Carbon Dioxide, Global. Ed Dlugokencky and Pieter Tans, NO
 
 ## Mitwirkende
 
-...
+Jonathan Kirchhoff
 
 ## Lizenz
 
-Sämtliche Inhalte des Repositories stehen unter der Creative Commmons Namensnennung 3.0 Deutschland (CC BY 3.0 DE) Lizenz. Sie können geteilt und weiterverarbeitet werden, wenn dabei auf die Urheber und die Lizenz verwiesen wird und eventuelle Änderungen kenntlich gemacht werden.    
+Die Inhalte des Repositories stehen unter der Creative Commmons Namensnennung 3.0 Deutschland (CC BY 3.0 DE) Lizenz. Sie können geteilt und weiterverarbeitet werden, wenn dabei auf die Urheber und die Lizenz verwiesen wird und eventuelle Änderungen kenntlich gemacht werden.    
 Die vollständige Lizenz kann unter folgendem Link eingesehen werden:
 https://creativecommons.org/licenses/by/3.0/de/
+
+Zu beachten sind außerdem die Lizenzen der hier verwendeten Datenquellen.
